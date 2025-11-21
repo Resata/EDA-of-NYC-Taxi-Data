@@ -1,10 +1,10 @@
-### 🚕 Automatidata – NYC Taxi Trip Analysis (Course 3)
+## 🚕 Automatidata – NYC Taxi Trip Analysis (Course 3)
 A structured exploratory analysis of NYC Yellow Taxi data completed as part of Course 3: Go Beyond the Numbers in the Google Advanced Data Analytics program.
 
 This project focuses on using Python for EDA, uncovering patterns in rides, fares, tips, passenger behavior, and location activity, and translating findings into meaningful insights.
 
 
-###📌 Project Objectives
+### 📌 Project Objectives
 * Assess and clean taxi trip data
 
 
@@ -18,6 +18,7 @@ This project focuses on using Python for EDA, uncovering patterns in rides, fare
 
 
 * Summarize insights to support operational decision-making
+
 
 
 
@@ -35,7 +36,8 @@ This project focuses on using Python for EDA, uncovering patterns in rides, fare
 
 
 
-📊 Key Insights
+
+### 📊 Key Insights
 * The dataset contains several invalid values (e.g., negative fares, zero-passenger trips).
 
 
